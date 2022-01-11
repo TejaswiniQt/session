@@ -13,4 +13,5 @@ int main()
     else
     {
     printf("drink water\n");
+    printf("drink juice\n");
     }
