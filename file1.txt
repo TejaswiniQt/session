@@ -9,6 +9,7 @@ int main()
     {
         printf("eat burger\n");
 	printf("eat fries\n");
+	printf(eat pizza\n");
     }
     else
     {
