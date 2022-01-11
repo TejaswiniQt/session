@@ -8,5 +8,6 @@ int main()
     if(ch=='h')
     {
         printf("eat burger\n");
+	printf("eat fries\n");
     }
     }
